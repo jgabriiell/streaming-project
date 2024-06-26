@@ -1,7 +1,7 @@
 # Streaming service
 RESTful Java API
 
-## Diagrama de classes
+## Class diagram
 
 ```mermaid
 classDiagram
