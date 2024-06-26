@@ -17,8 +17,8 @@ classDiagram
         +String number
         +String type
         +int price
-        +int number_of_series
-        +int number_of_movies
+        +int numberOfSeries
+        +int numberOfMovies
     }
 
     class Series {
